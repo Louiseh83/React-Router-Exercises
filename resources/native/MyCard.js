@@ -10,7 +10,7 @@ export default class MyCard extends React.Component {
           title={this.props.cardId}
           image={require('./images/background.jpg')}>
           <Text style={{marginBottom: 10}}>
-            A card item from React Native Elements used in this React Router course. Enjoy!!!
+            A card item from React Native Elements is used in this React Router course. Enjoy and have fun!!!
           </Text>
           <Button
             icon={{name: 'done'}}
